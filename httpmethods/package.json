@@ -1,0 +1,16 @@
+{
+  "name": "httpmethods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getmethods.js",
+  "scripts": {
+    "dev": "nodemon getmethods.js"
+  },
+  "author": "sruthi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  },
+  "devDependencies": {}
+}
